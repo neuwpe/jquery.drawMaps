@@ -3,7 +3,7 @@ Google local search api + Google Maps Api v3を使用して、キーワードを
 コントロール系のオプションは面倒くさいので今のところ特に変更できるように実装してません。気が向いたらやります。
 
 使い方はHow toを参照ください。
-https://github.com/neuwpe/jquery.drawMaps/wiki/howto-use
+https://github.com/neuwpe/jquery.drawMaps/wiki/%E4%BD%BF%E3%81%84%E6%96%B9-How-to-use
 
 サンプル
 http://sample.wpe.jp/jquery.drawMaps/
