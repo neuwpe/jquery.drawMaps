@@ -19,7 +19,7 @@
 	$.fn.drawMaps = ( function(o)
 	{
 		var me = $(this);
-		var defaultLatlng = new google.maps.LatLng(-34.397, 150.644);
+		var defaultLatlng = new google.maps.LatLng(33.958739,130.94153);
 		var ex = $.extend({}, {
 			key			:	'shimonoseki',
 			query		:	true,
@@ -37,13 +37,13 @@
 			{
 				if(ex.query) f.getQuery();
 				f.search(f.key, function(result){
-					var searchLatlng = new google.maps.LatLng(result.lat, result.lng);
+					var searchLatlng = result? new google.maps.LatLng(result.lat, result.lng) : defaultLatlng;
 					f.options = { zoom: ex.zoom, center: searchLatlng, mapTypeId: ex.typeId },
 					f.map = new google.maps.Map(me.get(0), f.options);
 					f.marker = new google.maps.Marker({
 						position: searchLatlng,  map: f.map
 					});
-					if(typeof ex.callback=='function' && ex.callback) ex.callback(result); 
+					if(typeof ex.callback=='function' && ex.callback) ex.callback(result);
 				});
 			},
 			search			:	function(k, c)
