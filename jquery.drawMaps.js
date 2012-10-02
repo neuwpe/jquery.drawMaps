@@ -16,7 +16,7 @@
 	
 */
 (function($){
-	$.fn.drawGoogleMaps = ( function(o)
+	$.fn.drawMaps = ( function(o)
 	{
 		var me = $(this);
 		var defaultLatlng = new google.maps.LatLng(-34.397, 150.644);
