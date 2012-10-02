@@ -4,7 +4,10 @@ jquery.drawMaps
 Google local search api + Google Maps Api v3を使用して、キーワードを元に地図を表示します。
 
 使い方はHow toを参照ください。
-
 https://github.com/neuwpe/jquery.drawMaps/wiki/howto-use
+
+サンプル
+http://wpe.jp/sample/jquery.drawMaps/
+
 
 author: tsuyoshi higuchi ( http://wpe.jp , http://twitter.com/neuwpe )
