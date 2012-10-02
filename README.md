@@ -7,7 +7,7 @@ Google local search api + Google Maps Api v3を使用して、キーワードを
 https://github.com/neuwpe/jquery.drawMaps/wiki/howto-use
 
 サンプル
-http://sample.wpe.jp/jquery.drawMaps/
+http://sample.wpe.jp/jquery.drawMaps/?key=龍神温泉
 
 
 author: tsuyoshi higuchi ( http://wpe.jp , http://twitter.com/neuwpe )
