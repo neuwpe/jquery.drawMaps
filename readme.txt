@@ -3,6 +3,6 @@ Google local search api + Google Maps Api v3を使用して、キーワードを
 
 使い方はHow toを参照ください。
 
-https://github.com/neuwpe/jquery.drawMaps/wiki/How-to-use
+https://github.com/neuwpe/jquery.drawMaps/wiki/howto-use
 
 author: tsuyoshi higuchi ( http://wpe.jp , http://twitter.com/neuwpe )
