@@ -7,7 +7,7 @@ Google local search api + Google Maps Api v3を使用して、キーワードを
 https://github.com/neuwpe/jquery.drawMaps/wiki/howto-use
 
 サンプル
-http://wpe.jp/sample/jquery.drawMaps/
+http://sample.wpe.jp/jquery.drawMaps/
 
 
 author: tsuyoshi higuchi ( http://wpe.jp , http://twitter.com/neuwpe )
