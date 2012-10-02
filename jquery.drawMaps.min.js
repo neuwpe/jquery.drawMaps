@@ -10,7 +10,7 @@
 	@web			:	http://b.wpe.jp/
 	@modified	:	2012-10-2 16:43
 	@since			:	2012-10-1 19:00
-	@version		:	1.00
+	@version		:	1.01
 	@use			:	jQuery1.4later 
 	@howto		:	https://github.com/neuwpe/jquery.drawMaps/wiki/howto-use
 	
